@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Text | Abakar Gasanov</title>
+    <link>https://vigestry.github.io/en/tags/text/</link>
+      <atom:link href="https://vigestry.github.io/en/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    <description>Text</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vigestry.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Text</title>
+      <link>https://vigestry.github.io/en/tags/text/</link>
+    </image>
+    
+    <item>
+      <title>Lightweight Markup Languages — Convenience and Simplicity</title>
+      <link>https://vigestry.github.io/en/publication/02/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://vigestry.github.io/en/publication/02/</guid>
+      <description>&lt;h2 id=&#34;-what-are-lightweight-markup-languages&#34;&gt;📖 What are lightweight markup languages?&lt;/h2&gt;
+&lt;p&gt;Lightweight markup languages are text systems that use a minimal number of special symbols for formatting.&lt;br&gt;
+They make it easy to create structured documents such as articles, notes, technical documentation, or web pages.&lt;/p&gt;
+&lt;p&gt;The main advantage is &lt;strong&gt;simplicity and readability&lt;/strong&gt;. Even without being converted into the final format, the text remains human-readable.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-are-they-useful&#34;&gt;🔑 Why are they useful?&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ease of writing&lt;/strong&gt;&lt;br&gt;
+No need for complex editors — a simple text file is enough.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Easy to learn&lt;/strong&gt;&lt;br&gt;
+You can master such languages in just a few hours.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Versatility&lt;/strong&gt;&lt;br&gt;
+Suitable for notes, blogs, documentation, presentations, and even scientific papers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Integration&lt;/strong&gt;&lt;br&gt;
+Supported by many publishing systems and platforms, including GitHub, wikis, and blogs.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-where-are-they-used&#34;&gt;🌍 Where are they used?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Student notes and outlines&lt;/strong&gt; — quickly organize text and headings.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scientific papers and reports&lt;/strong&gt; — easily structure content.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Programming&lt;/strong&gt; — developers use them for documentation and README files.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Educational projects&lt;/strong&gt; — formatting lectures and study materials.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-examples-of-lightweight-markup-languages&#34;&gt;🔗 Examples of lightweight markup languages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; — the most popular, used for blogs, documentation, and notes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;reStructuredText (reST)&lt;/strong&gt; — often applied in the Python community for documentation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AsciiDoc&lt;/strong&gt; — a flexible language for technical documentation and books.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Textile&lt;/strong&gt; — mainly used for blogs and CMS publications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;✨ Conclusion&lt;/h2&gt;
+&lt;p&gt;Lightweight markup languages allow you to write structured texts without unnecessary complexity.&lt;br&gt;
+They make working with documents faster, simpler, and more accessible for everyone — from students to researchers.&lt;/p&gt;
+&lt;p&gt;📌 By mastering at least one markup language, you can significantly simplify your work with texts and publications.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

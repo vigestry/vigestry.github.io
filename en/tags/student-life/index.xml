@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Student Life | Abakar Gasanov</title>
+    <link>https://vigestry.github.io/en/tags/student-life/</link>
+      <atom:link href="https://vigestry.github.io/en/tags/student-life/index.xml" rel="self" type="application/rss+xml" />
+    <description>Student Life</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vigestry.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Student Life</title>
+      <link>https://vigestry.github.io/en/tags/student-life/</link>
+    </image>
+    
+    <item>
+      <title>A Researcher’s Personal Website with Hugo Academic</title>
+      <link>https://vigestry.github.io/en/project/hugo/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://vigestry.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;-why-does-a-researcher-need-a-personal-website&#34;&gt;🌐 Why does a researcher need a personal website?&lt;/h2&gt;
+&lt;p&gt;Today, for a student or researcher, it’s important not only to write papers and attend conferences but also to present oneself online. A personal website helps to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📑 collect all publications and projects in one place;&lt;/li&gt;
+&lt;li&gt;🔗 share links to scholarly profiles (Google Scholar, eLibrary, ORCID, and others);&lt;/li&gt;
+&lt;li&gt;💼 showcase professional skills and achievements;&lt;/li&gt;
+&lt;li&gt;📬 connect with colleagues and potential employers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In short, your site becomes a personal portfolio available 24/7.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-hugo-academic&#34;&gt;⚙️ Why &lt;strong&gt;Hugo Academic&lt;/strong&gt;?&lt;/h2&gt;
+&lt;p&gt;Hugo Academic (now &lt;strong&gt;Wowchemy&lt;/strong&gt;) is a convenient theme for the Hugo static site generator, aimed at students, graduate students, and researchers. Key benefits include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🖥️ easy setup: ready-made templates for profiles, publications, and blogs;&lt;/li&gt;
+&lt;li&gt;📚 integration with resources like Google Scholar and ORCID;&lt;/li&gt;
+&lt;li&gt;📊 the ability to neatly present a CV, skills, and projects;&lt;/li&gt;
+&lt;li&gt;🚀 high performance thanks to static generation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-step-by-step-launching-your-site&#34;&gt;🛠️ Step-by-step: launching your site&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Install Hugo&lt;/strong&gt;&lt;br&gt;
+First, install Hugo Extended — the version with theme and style support.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Create a project&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo new site my-academic-site
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; my-academic-site
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Impressions from Summer Walks</title>
+      <link>https://vigestry.github.io/en/post/03/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://vigestry.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;-week-from-july-9-to-july-15&#34;&gt;📌 Week from July 9 to July 15&lt;/h2&gt;
+&lt;p&gt;This week was eventful: together with classmates, we walked around Moscow and discovered many new and interesting places.&lt;br&gt;
+We visited several museums, which inspired reflections on how technology influences culture and education.&lt;/p&gt;
+&lt;p&gt;Alongside the walks, I continued reading literature on business informatics — it turned out that many books provide a practical perspective on what will be studied in senior courses.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Long-Awaited Holidays — Time to Rest</title>
+      <link>https://vigestry.github.io/en/post/02/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://vigestry.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-week-from-july-2-to-july-8&#34;&gt;📌 Week from July 2 to July 8&lt;/h2&gt;
+&lt;p&gt;The exams are behind me, and the holidays have finally begun! The first feeling is lightness and joy.&lt;br&gt;
+I dedicated this week to rest: spent more time with friends, played football, and finally managed to read books peacefully without thinking about exams.&lt;/p&gt;
+&lt;p&gt;I also enrolled in several online courses for self-development to keep up the learning rhythm during the summer.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exams — the First Serious Challenge</title>
+      <link>https://vigestry.github.io/en/post/01/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://vigestry.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-week-from-june-25-to-july-1&#34;&gt;📌 Week from June 25 to July 1&lt;/h2&gt;
+&lt;p&gt;The main topic of this week was the exam session. The atmosphere was tense but exciting: for the first time, I had to take several serious exams in a row.&lt;br&gt;
+What stood out the most was preparing for the mathematics exam — I had to review my notes and solve dozens of problems.&lt;/p&gt;
+&lt;p&gt;The Business Informatics exam turned out to be less difficult than expected: most questions focused on theory and examples of real-world applications in companies.&lt;br&gt;
+It really feels like the first year of studies is reaching an important milestone.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

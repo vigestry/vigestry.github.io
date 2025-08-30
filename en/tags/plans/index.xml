@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plans | Abakar Gasanov</title>
+    <link>https://vigestry.github.io/en/tags/plans/</link>
+      <atom:link href="https://vigestry.github.io/en/tags/plans/index.xml" rel="self" type="application/rss+xml" />
+    <description>Plans</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vigestry.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Plans</title>
+      <link>https://vigestry.github.io/en/tags/plans/</link>
+    </image>
+    
+    <item>
+      <title>Inspiration and New Plans</title>
+      <link>https://vigestry.github.io/en/post/05/</link>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://vigestry.github.io/en/post/05/</guid>
+      <description>&lt;h2 id=&#34;-week-from-july-23-to-july-29&#34;&gt;📌 Week from July 23 to July 29&lt;/h2&gt;
+&lt;p&gt;The holidays are gradually reaching their midpoint, and I felt the urge to engage in something more productive.&lt;br&gt;
+I started working on a small project in Python for practice: planning to build a simple personal expense tracking app.&lt;/p&gt;
+&lt;p&gt;In addition, I created a reading list and study materials to prepare for the next semester.&lt;br&gt;
+It feels like summer is becoming not only a time for rest but also a launchpad for future ideas.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computing | Abakar Gasanov</title>
+    <link>https://vigestry.github.io/en/tags/computing/</link>
+      <atom:link href="https://vigestry.github.io/en/tags/computing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vigestry.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Computing</title>
+      <link>https://vigestry.github.io/en/tags/computing/</link>
+    </image>
+    
+    <item>
+      <title>Scientific Programming Languages — Tools for Research</title>
+      <link>https://vigestry.github.io/en/publication/04/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://vigestry.github.io/en/publication/04/</guid>
+      <description>&lt;h2 id=&#34;-what-are-scientific-programming-languages&#34;&gt;📖 What are scientific programming languages?&lt;/h2&gt;
+&lt;p&gt;Scientific programming languages are designed to solve problems in science, engineering, and data analysis.&lt;br&gt;
+Their main purpose is to make it easier for researchers to perform computations, modeling, data processing, and result visualization.&lt;/p&gt;
+&lt;p&gt;Unlike general-purpose languages, these tools often include built-in libraries for mathematics, statistics, and numerical methods.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-key-features&#34;&gt;🔑 Key features&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Mathematical orientation&lt;/strong&gt; — built-in functions for linear algebra, statistics, and numerical analysis.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;High precision&lt;/strong&gt; — essential for engineering and physics tasks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Visualization capabilities&lt;/strong&gt; — support for graphs, charts, and scientific visualizations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rich ecosystem of libraries&lt;/strong&gt; — access to tools for modeling, simulations, and big data analysis.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-popular-scientific-programming-languages&#34;&gt;🌍 Popular scientific programming languages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Fortran&lt;/strong&gt; — one of the oldest languages, still actively used in numerical calculations and physical process modeling.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MATLAB&lt;/strong&gt; — convenient for matrix computations, simulations, and engineering tasks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;R&lt;/strong&gt; — a language focused on statistics and data analysis, popular among researchers and analysts.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt; — thanks to libraries (NumPy, SciPy, pandas, matplotlib), it has become a universal tool for science and education.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Julia&lt;/strong&gt; — a modern language combining simple syntax with high computational performance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-applications&#34;&gt;📊 Applications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;In &lt;strong&gt;physics and engineering&lt;/strong&gt; — process modeling, experiment simulations.&lt;/li&gt;
+&lt;li&gt;In &lt;strong&gt;mathematics&lt;/strong&gt; — solving equations, numerical methods, computational algebra.&lt;/li&gt;
+&lt;li&gt;In &lt;strong&gt;economics and business&lt;/strong&gt; — data analysis, forecasting, and modeling.&lt;/li&gt;
+&lt;li&gt;In &lt;strong&gt;bioinformatics&lt;/strong&gt; — genome data processing and biological system modeling.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;✨ Conclusion&lt;/h2&gt;
+&lt;p&gt;Scientific programming languages form the foundation of modern research.&lt;br&gt;
+They help scientists and students solve complex problems faster and more efficiently by combining computational power with ease of working with data.&lt;/p&gt;
+&lt;p&gt;📌 Mastering at least one of these languages opens access to a wide range of scientific and applied projects.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
